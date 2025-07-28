@@ -2,6 +2,10 @@
 
 A feature-rich news application built with React that demonstrates advanced web development skills and modern UI/UX practices.
 
+![NewsHub Pro Screenshot](public/assets/Website_Pic1.jpg)
+
+*NewsHub Pro - Advanced React News Application with real-time updates, search, bookmarks, analytics, filtering, and social sharing*
+
 ## 🚀 Features
 
 ### 📱 Core Functionality
